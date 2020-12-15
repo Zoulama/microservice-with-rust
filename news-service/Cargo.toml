@@ -1,7 +1,7 @@
 [package]
 name = "news-service"
 version = "1.0.0"
-authors = ["Diego.Pacheco"]
+authors = ["yoonwii"]
 edition = "2018"
 
 [dependencies]
